@@ -11,7 +11,8 @@ The goal is to transform raw data into a cleaner and more reliable format, uncov
 ### 1. Data Cleaning  
 - Handled missing values and inconsistent entries.  
 - Detected and removed unrealistic outliers (e.g., extreme prices, excessive minimum nights).  
-- Ensured proper data types and dataset reliability.  
+- Ensured proper data types and dataset reliability.
+- 
 
 ### 2. Exploratory Data Analysis (EDA)  
 - Analyzed the *distribution of numerical variables* (price, minimum nights, reviews, availability).  
@@ -53,6 +54,7 @@ The goal is to transform raw data into a cleaner and more reliable format, uncov
 - *GitHub:* [Arshiaestineh2563](https://github.com/Arshiaestineh2563)  
 - *Email:* Arshiaestineh2005@icloud.com  
 
----
+----
 
-⭐ If you found this project useful, don’t forget to *star the repo* on GitHub!
+
+⭐ If you found this project useful, don’t forget to *star the repo* on GitHub!!
